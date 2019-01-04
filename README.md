@@ -9,3 +9,4 @@
 *   [step argument in slice operators](./step-in-slice.py)
 *   [flatten a list](./flatten-a-list.py)
 *   [diffent ways to test multiple flags at once](./test-multiple-flags.py)
+*   [In-place value swapping](./in-place-value-swapping.py)
